@@ -1,0 +1,10 @@
+.container-fluid {
+    max-width: 1200px;
+}
+.jets-green {
+    color: #0C371D;
+}
+.navbar {
+    background-color: #0C371D;
+    color: #fff;
+}

@@ -1,10 +1,22 @@
 .container-fluid {
-    max-width: 1200px;
+    max-width: 1400px;
 }
-.jets-green {
-    color: #0C371D;
-}
-.navbar {
+.jets {
     background-color: #0C371D;
     color: #fff;
+}
+
+.mets {
+    background-color: #002D70;
+    color: #FC4C00;
+}
+
+.p-y-half {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.pics img {
+    max-height: 250px;
+    margin-bottom: 5px;
 }
